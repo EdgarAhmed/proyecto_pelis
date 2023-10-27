@@ -17,7 +17,7 @@ Por último, se nos pide realizar unas 10 queries para poder demostrar la relaci
         a.    Carga de los documentos a través de Jupyter.
         b.    Limpieza de datos.
         c.    Exportación a la base de datos a través de SQL.
-        d.    Creación del ERD. En mi caso en concreto, por problemas de compatibilidad, uso dos              aplicaciones.  Dbeaber y MySQLworkbench. 
+        d.    Creación del ERD. En mi caso en concreto, por problemas de compatibilidad, uso dos aplicaciones.  Dbeaber y MySQLworkbench. 
         e.    Creación y carga de base de datos. 
 
 
