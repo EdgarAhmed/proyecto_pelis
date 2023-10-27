@@ -1,39 +1,30 @@
-# W3 Project - Building mySQL Data-base 
+# W3 Project - Back to the Future - Proyecto Pelis.
 
-![portada](https://i0.wp.com/itsoftware.com.co/content/wp-content/uploads/2018/03/que-es-y-para-que-sirve-mysql-1.jpg)
-
-
-The goal of this project is to build your own database from several csv files. For this project, you will start with 6 `csv` files. You will need to download it, import it, use your data wrangling skills to clean it up, have a first look at the data to figure out out to structure it, prepare it to be loaded in a sql database and finally build it. Some graphs to better understand the data will surely be useful!!
-
-## TO DO's
-
-1. Explore the data and write down what you have found
-   - you can use: `df.describe()`, `df["column"]`, etc.
-1. Clean the data (you can get rid of columns that doesn't give information)
-1. Build your databse
-1. Write at least 10 queries including: join, groupby, orderby, where, subqueries….that you think will be useful to get interesting insights from the data.**(SELECT* FROM TABLE_NAME doesn't count...)** 
-+ Bonus: Get creative!!! Create totally new tables or enrich the csv files with new data (found on the internet or even made up) that makes your database more valuable.
+![portada](https://www.blockbuster.com/images/blockbuster-image.jpg)
 
 
-## Suggested Ways to Get Started
+En este trabajo nuestro cliente quiere retornar a los fantasticos años 80 y 90 del siglo pasado en el cual los videoclubs alcanzaron su zenit como centro cultural audiovisual.
 
-- Examine the data and try to understand what the fields mean before building the database.
-- Break the project down into different steps - use the topics covered in the lessons to form a check list, add anything else you can think of that may be wrong with your data set, and then work through the check list.
-- Use the tools in your tool kit - your knowledge of Python, data structures, Pandas, and data wrangling.
-  Work through the lessons in class & ask questions when you need to! Think about adding relevant code to your project each night, instead of, you know... procrastinating.
-- Commit early, commit often, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
-- Consult documentation and resources provided to better understand the tools you are using and how to accomplish what you want.
+En este ejercicio, nuestro cliente, un nostálgico del las hombreras y el cardado del pelo, quiere volver a abrir un videoclub en plena era de las plataformas digitales streaming y consumo individual.
 
-## How to deliver the project
+En este ejercicio, se nos da 6 archivos csv con información en distintas tablas. La información es referente a los datos de un antiguo videoclub. De ahí, tenemos que extraer y limpiar dichos archivos. 
 
-1. Create a new repo with the name `sql-data-base-building` on your github account.
-   - Create a `README.md` file on repo root with project documentation. Make sure to include as much useful information as possible. Someone that finds the README.md should be able to fully get a gist of the project without browsing your files.
-   - Include a `.gitignore`
-   - At least 1 jupyter notebook is required
-   - Include the necessary code files to create and feed the database.
-   - Including your functions in a `src.py` is mandatory.
-   
-2. Open an `Issue` on this repo and paste your own repo's link.
+Con ellos, posteriormente, haremos una base de datos en SQL. ‘Dibujaremos’ el ERD, que se debe de guardar en un archivo .sql.
+
+Por último, se nos pide realizar unas 10 queries para poder demostrar la relación entre tablas. 
+
+    1.    Proceso del trabajo. 
+        a.    Carga de los documentos a través de Jupyter.
+        b.    Limpieza de datos.
+        c.    Exportación a la base de datos a través de SQL.
+        d.    Creación del ERD. En mi caso en concreto, por problemas de compatibilidad, uso dos              aplicaciones.  Dbeaber y MySQLworkbench. 
+        e.    Creación y carga de base de datos. 
+
+
+
+
+![portada](https://static.posters.cz/image/750/art-photo/back-to-the-future-i147033.jpg)
+
 
 ## Links & Resources
 
@@ -45,5 +36,4 @@ The goal of this project is to build your own database from several csv files. F
 - https://seaborn.pydata.org/
 - https://pandas.pydata.org/docs/
 - https://towardsdatascience.com/beware-of-storytelling-with-data-1710fea554b0?gi=537e0c10d89e
-
-A
+- https://dbeaver.io/
