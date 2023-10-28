@@ -23,7 +23,8 @@ Por último, se nos pide realizar unas 10 queries para poder demostrar la relaci
 
 
 
-![portada](https://static.posters.cz/image/750/art-photo/back-to-the-future-i147033.jpg)  ![portada] (https://pbs.twimg.com/media/DzN1UJQX4AEN-97.jpg)
+![portada](https://static.posters.cz/image/750/art-photo/back-to-the-future-i147033.jpg)  ![portada](https://pbs.twimg.com/media/DzN1UJQX4AEN-97.jpg)
+
 
 
 ## Links & Resources
