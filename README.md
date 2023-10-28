@@ -5,9 +5,9 @@
 
 En este trabajo nuestro cliente quiere retornar a los fantasticos años 80 y 90 del siglo pasado en el cual los videoclubs alcanzaron su zenit como centro cultural audiovisual.
 
-En este ejercicio, nuestro cliente, un nostálgico del las hombreras y el cardado del pelo, quiere volver a abrir un videoclub en plena era de las plataformas digitales streaming y consumo individual.
+Marty, el nombre de nuestro cliente cliente ficticio, un nostálgico del las hombreras y el cardado del pelo, quiere volver a abrir un videoclub en plena era de las plataformas digitales streaming y consumo individual.
 
-En este ejercicio, se nos da 6 archivos csv con información en distintas tablas. La información es referente a los datos de un antiguo videoclub. De ahí, tenemos que extraer y limpiar dichos archivos. 
+Nos facilita 6 archivos csv con información en distintas tablas. La información es referente a los datos de un antiguo videoclub. De ahí, tenemos que extraer y limpiar dichos archivos. 
 
 Con ellos, posteriormente, haremos una base de datos en SQL. ‘Dibujaremos’ el ERD, que se debe de guardar en un archivo .sql.
 
@@ -25,6 +25,12 @@ Por último, se nos pide realizar unas 10 queries para poder demostrar la relaci
 
 ![portada](https://static.posters.cz/image/750/art-photo/back-to-the-future-i147033.jpg)  ![portada](https://pbs.twimg.com/media/DzN1UJQX4AEN-97.jpg)
 
+
+
+## Pasos más destacables.
+
+
+![screenshot](file:///var/folders/kj/l1l6wgh12130zpt082pddj2r0000gn/T/TemporaryItems/NSIRD_screencaptureui_QXmUV2/Screenshot%202023-10-28%20at%2013.07.22.png)
 
 
 ## Links & Resources
