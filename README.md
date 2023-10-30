@@ -26,6 +26,8 @@ Por último, se nos pide realizar unas 10 queries para poder demostrar la relaci
 ![portada](https://static.posters.cz/image/750/art-photo/back-to-the-future-i147033.jpg)
 
 
+dasdSDAXS
+
 ## Links & Resources
 
 
