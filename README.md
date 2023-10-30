@@ -23,14 +23,11 @@ Por último, se nos pide realizar unas 10 queries para poder demostrar la relaci
 
 
 
-![portada](https://static.posters.cz/image/750/art-photo/back-to-the-future-i147033.jpg)  ![portada](https://pbs.twimg.com/media/DzN1UJQX4AEN-97.jpg)
+![portada](https://static.posters.cz/image/750/art-photo/back-to-the-future-i147033.jpg)    ![portada](https://pbs.twimg.com/media/DzN1UJQX4AEN-97.jpg)
 
 
 
 ## Pasos más destacables.
-
-
-![screenshot](file:///var/folders/kj/l1l6wgh12130zpt082pddj2r0000gn/T/TemporaryItems/NSIRD_screencaptureui_QXmUV2/Screenshot%202023-10-28%20at%2013.07.22.png)
 
 
 ## Links & Resources
